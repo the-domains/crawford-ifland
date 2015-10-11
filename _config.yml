@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.7168459
 color:
-  saturation: 0.7562724
-  brandStrength: 1
+  saturation: 0
   lightness: 0.5448028
+  brandStrength: 1
   brandColors:
     - '#020303'
     - '#3A4164'
     - '#776D89'
     - '#C7B39B'
     - '#AC3730'
-  rhythmicContrast: 0.672043
+  rhythmicContrast: 0
+typography_spectrum: 0.7168459
 layout_spectrum: 0.1989247
 name: 'Crawford Ifland '
