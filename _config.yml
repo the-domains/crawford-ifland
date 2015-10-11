@@ -1,13 +1,26 @@
-layout_spectrum: 1
 color:
   saturation: 0.7562724
   brandStrength: 1
-  lightness: 1
+  rhythmicContrast: 0.672043
   brandColors:
     - '#020303'
     - '#3A4164'
     - '#776D89'
     - '#C7B39B'
     - '#AC3730'
-  rhythmicContrast: 0.672043
+  lightness: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 1
 typography_spectrum: 0.9802867
+name: 'Crawford Ifland '
