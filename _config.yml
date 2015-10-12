@@ -35,7 +35,7 @@ color:
     - '#C7B39B'
     - '#AC3730'
   brandStrength: 0
-  lightness: 0.5448028
+  lightness: 1
   saturation: 0
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 purpose: []
