@@ -1,3 +1,7 @@
+name: 'Crawford Ifland '
+favicon: null
+layout_spectrum: 0.1989247
+typography_spectrum: 0.7168459
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Crawford Ifland
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  lightness: 0.5448028
-  brandStrength: 1
   brandColors:
     - '#020303'
     - '#3A4164'
     - '#776D89'
     - '#C7B39B'
     - '#AC3730'
+  brandStrength: 1
+  lightness: 0.5448028
+  saturation: 0
   rhythmicContrast: 0
-typography_spectrum: 0.7168459
-layout_spectrum: 0.1989247
-name: 'Crawford Ifland '
+purpose: []
