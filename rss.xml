@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Crawford Ifland]]></title>
+        <description><![CDATA[Crawford Ifland]]></description>
+        <link>http://crawfordifland.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 14 Oct 2015 02:40:12 GMT</lastBuildDate>
+        <atom:link href="http://crawfordifland.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tesla CEO Elon Musk takes to Twitter to soften comments on Apple, praise beautiful watch design]]></title>
+            <description><![CDATA[<article><h1>Tesla CEO Elon Musk takes to Twitter to soften comments on Apple, praise beautiful watch design</h1><p>Yesterday we reported on comments made by Tesla CEO Elon Musk during a recent interview with German newspaper Handelsblatt. The CEO, known for speaking his mind candidly on occasions, made comments that could easily have been interpreted as critical to the design of the Apple Watch and the quality of the company's hires from Tesla, but Friday afternoon Musk took to Twitter to soften those comments.</p></article>]]></description>
+            <link>http://crawfordifland.com/tesla-ceo-elon-musk-takes-to-twitter-to-soften-comments-on-a/index.html</link>
+            <guid isPermaLink="false">586b7430-21b3-4ab3-b250-4fe57183f315</guid>
+            <pubDate>Wed, 14 Oct 2015 02:39:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
